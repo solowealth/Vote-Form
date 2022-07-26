@@ -1,0 +1,47 @@
+*{
+    background-color: blue;
+}
+
+h1{
+    color: red
+}
+
+#definition{
+    color: pink;
+}
+
+#border{
+    border: 1px solid black;
+}
+
+ul{
+    border: 1px solid # green
+}
+
+#style1{
+    color: aqua;
+
+}
+
+#style2{
+    color: bisque;
+    
+}
+
+#style3{
+    color: cadetblue;
+    
+}
+
+ul{
+  color: coral;  
+}
+
+p{
+    color: rgb(20, 6, 16);
+    font-style: italic;
+}
+
+#definition{
+    color: rgb(28, 132, 54);
+}
